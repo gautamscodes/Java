@@ -1,0 +1,38 @@
+﻿# ==================== Java & Build ====================
+# Maven
+/target/
+
+# Gradle
+/build/
+.gradle/
+
+# IDE/project files
+*.iml
+.idea/
+.vscode/
+.settings/
+
+# Compiled class files
+*.class
+
+# Archives
+*.jar
+*.war
+*.ear
+
+# Logs and temp
+*.log
+logs/
+
+# Keystores / secrets
+*.keystore
+*.jks
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+out/
