@@ -16,6 +16,10 @@ public class intro1 {
                 .filter(name -> name.startsWith("A"))
                 .forEach(System.out::println);
 
+        employess.stream()
+                .filter(n -> n.contains("l"))
+                .forEach(System.out::println);
+
     }
 
 
