@@ -12,6 +12,8 @@ public class ArrayList1 {
         names.add("Alisha");
         names.add("Aman");
 
+        names.remove("Aman");
+
         System.out.println(names);
 
 
