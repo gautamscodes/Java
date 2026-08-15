@@ -13,6 +13,7 @@ public class ArrayList1 {
         names.add("Aman");
 
         names.remove("Aman");
+        names.add("Himanshi");
 
         System.out.println(names);
 
