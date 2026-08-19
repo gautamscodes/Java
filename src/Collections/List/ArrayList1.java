@@ -16,7 +16,7 @@ public class ArrayList1 {
         names.add("Himanshi");
         names.add("Sejal");
         names.add("Sakshi");
-        names.add("Sneha");
+
 
         System.out.println(names);
 
