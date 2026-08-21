@@ -14,7 +14,7 @@ public class ArrayList1 {
 
         names.remove("Aman");
         names.add("Himanshi");
-        names.add("Sejal");
+
 
 
         System.out.println(names);
